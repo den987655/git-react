@@ -3,7 +3,7 @@ import React from 'react';
 const Profile = () => {
     return <div className='content'>
         <div>
-            <img src= 'https://st.depositphotos.com/2251265/2414/i/450/depositphotos_24142557-stock-photo-black-textured-background.jpg'/>
+            <img src= 'https://avatanplus.com/files/resources/mid/5a3641896175916063f000b7.jpg'/>
         </div>
         <div>
             ava + description
